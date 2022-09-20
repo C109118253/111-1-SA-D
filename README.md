@@ -35,3 +35,7 @@
 | 3   | Watermelon | 30 |
 
 ![nkust](nkust.png "高科大")
+
+- [x] one
+- [ ] two
+- [ ] three
