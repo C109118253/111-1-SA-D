@@ -27,3 +27,9 @@
 **Zhen**  
 *Zhen*  
 ~~Zhen~~  
+
+| No. | Product | Price |
+| :---| :-----: | ----: |
+| 1   | Apple   | 10    |
+| 2   | Banana  | 20    |
+| 3   | Watermelon | 30 |
