@@ -59,6 +59,11 @@ markdown 風格
 [NKUST](http://www.nkust.edu.tw)
 
 ---
+嵌入影片
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+---
 選擇
 
 - [x] one
