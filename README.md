@@ -53,6 +53,14 @@ markdown 風格
 
 ![nkust](nkust.png "高科大")
 
+---
+連外部超連結
+
+[NKUST](http://www.nkust.edu.tw)
+
+---
+選擇
+
 - [x] one
 - [ ] two
 - [ ] three
