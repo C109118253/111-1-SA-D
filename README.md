@@ -40,3 +40,18 @@
 - [ ] two
 - [ ] three
 
+python code
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+---
+
+javascript code
+```js
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+---
